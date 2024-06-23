@@ -33,19 +33,19 @@ streamlit run app.py
 4. **requirements.txt**: List of dependencies.
 
 ## Usage
-**Launch the App**: Run the application using the setup instructions above.
-**Interact with the Database**: Use the chat interface to input natural language queries.
-**View Results**: The app will display the corresponding SQL query and its results.
+1. **Launch the App**: Run the application using the setup instructions above.
+2. **Interact with the Database**: Use the chat interface to input natural language queries.
+3. **View Results**: The app will display the corresponding SQL query and its results.
 
 ### Modules
-**streamlit**: Used for creating the web interface.
-**sqlalchemy**: For interacting with the SQLite database.
-**llama_index**: For natural language processing and query generation.
+1. **streamlit**: Used for creating the web interface.
+2. **sqlalchemy**: For interacting with the SQLite database.
+3. **llama_index**: For natural language processing and query generation.
 
 ## License
 This project is licensed under the MIT License.
 
 ## Acknowledgements
-**Streamlit** for providing an easy-to-use web application framework.
-**Azure OpenAI** for powerful language models.
-**HuggingFace** for state-of-the-art embeddings.
+1. **Streamlit** for providing an easy-to-use web application framework.
+2. **Azure OpenAI** for powerful language models.
+3. **HuggingFace** for state-of-the-art embeddings.
