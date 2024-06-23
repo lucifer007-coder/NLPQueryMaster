@@ -13,21 +13,15 @@ This project creates a Streamlit application that allows users to interact with 
 
 ## Setup Instructions
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/streamlit-chat-pack.git
-cd streamlit-chat-pack
-```
-
-### 2. Install Dependencies
+### 1. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Set Up Azure OpenAI Credentials
+### 2. Set Up Azure OpenAI Credentials
 Create a `credentials.yaml` file in the root directory with your Azure OpenAI credentials:
 
-### 4. Run the Application
+### 3. Run the Application
 ```bash
 streamlit run app.py
 ```
